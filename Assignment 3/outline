@@ -1,0 +1,17 @@
+Problem Statement => Create a GUI which will be used to enter records regarding foundation day schedule.
+
+The record will consist of the following.
+
+i) No of members in team
+	batch year
+	performace type
+	unique id for each performance
+
+ii) Marks awarded by judges
+
+iii) to performance.
+
+judge login
+	login id
+	password
+	can update information relevant to the record 
